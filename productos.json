@@ -1,0 +1,52 @@
+ [
+    {
+        "titulo" : "computadora portatil",
+        "imagen":"notebook.jpg",
+        "precio": 3500,
+        "id": "compuportatil"
+
+},
+    {
+        "titulo" : "computadora de escritorio", 
+        "imagen":"computadora.jpg",
+        "precio": 1500,
+        "id": "compuesc"
+},
+    {
+        "titulo" : "silla gamer" ,
+        "imagen":"sillagamer.jpg",
+        "precio": 800,
+        "id": "sillaG"
+},
+    {
+        "titulo" : "silla comun",
+        "imagen":"silla.jpg",
+        "precio": 400,
+        "id": "sillaC"
+},
+    {
+        "titulo" : "teclado y mouse inalambricos" ,
+        "imagen":"teclado.jpg",
+        "precio": 1000,
+        "id": "teci"
+},
+    {
+        "titulo" : "teclado y mouse con cable",
+        "imagen":"teclado.jpg",
+        "precio": 600,
+        "id": "tecc"
+},
+    {
+        "titulo" : "auriculares inalambricos",
+        "imagen":"auricularesgamer.jpg",
+        "precio": 800,
+        "id": "auri"
+},
+    {
+        "titulo" : "auriculares con cable",
+        "imagen":"auriculares.jpg",
+        "precio": 400,
+        "id": "auric"
+}
+
+]
